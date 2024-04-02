@@ -1,4 +1,4 @@
-
+ 
 /*
 COMP 125 Lab 11 - Adding to an Array with mouse clicks
 Step 1 - add a line of code to function mousePressed() that will add a new object to the array when the mouse is pressed. The first part (creating a new object where the mouse is pressed) is done for you. Just add the line that appends it to the array.
